@@ -1,0 +1,50 @@
+[
+    {
+        "FileId": "compilehost",
+        "FileName": "",
+        "FileVersion": "0.0.6",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=862386",
+        "Runtime": "",
+        "ExecutableFileName": "compilehost.exe"
+    },
+    {
+        "FileId": "reference",
+        "FileName": "",
+        "FileVersion": "0.0.1",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=834604",
+        "Runtime": "",
+        "ExecutableFileName": "mscorlib.dll"
+    },
+    {
+        "FileId": "scopecompiler",
+        "FileName": "",
+        "FileVersion": "0.0.7",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=846755",
+        "Runtime": "desktop",
+        "ExecutableFileName": "ScopeSymbolManagerWrapper.exe"
+    },
+    {
+        "FileId": "scopecompiler",
+        "FileName": "",
+        "FileVersion": "0.0.8",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=859945",
+        "Runtime": "mono",
+        "ExecutableFileName": "ScopeSymbolManagerWrapper.exe"
+    },
+    {
+        "FileId": "DataLakeConsoleAppForDotNet",
+        "FileName": "",
+        "FileVersion": "0.0.6",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=872507",
+        "Runtime": "desktop",
+        "ExecutableFileName": "DataLakeConsoleAppDotNet.exe"
+    },
+    {
+        "FileId": "DataLakeConsoleAppForDotNet",
+        "FileName": "",
+        "FileVersion": "0.0.6",
+        "FileUrl": "https://go.microsoft.com/fwlink/?linkid=872508",
+        "Runtime": "mono",
+        "ExecutableFileName": "DataLakeConsoleAppDotNet.dll"
+    }
+]
